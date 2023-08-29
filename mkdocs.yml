@@ -7,17 +7,20 @@ theme:
   name: mkdocs
   highlightjs: true
   locale: fr
-  prev_next_buttons_location: none
 
 plugins:
   - search
   
 markdown_extensions:
   - markdown_include.include:
-      base_path: .
+      base_path: ./docs
   - admonition
 
 nav:
+  - Général:
+    - Organisation: 'general/organisation.md'
+    - Téléchargements: 'general/telechargements.md'
+    - À propos de nous: 'general/a-propos.md'
   - 4D:
     - Présentation: '4d/presentation.md'
     - Gérer les inscriptions: '4d/gestion_inscription.md'

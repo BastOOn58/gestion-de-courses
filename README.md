@@ -21,13 +21,13 @@ Cette documentation inclut l'ensemble des outils nécessaires à la gestion de c
 | [MariTime](http://gestion-de-courses.readthedocs.io/fr/latest/maritime/presentation/)     | Logiciel utilisé pour le système de photofinish du même nom (*avancée*)                                     |
 | [ChronoPC](http://gestion-de-courses.readthedocs.io/fr/latest/chronopc/presentation/)     | Tableur Excel permettant un chronométrage visuel et l'export des résultats (*facile*)                       |
 
-Également, vous pourrez retrouver des informations plus générales comme la page de [téléchargement](https://gestion-de-courses.readthedocs.io/fr/latest/telechargements/) de ces outils.
+Également, vous pourrez retrouver des informations plus générales comme la page de [téléchargement](https://gestion-de-courses.readthedocs.io/fr/latest/general/telechargements/) de ces outils.
 
 ## Mise à jour de la documentation
 
-Les outils présentés ici sont inscrits dans un processus de développement actif. De ce fait, ils sont mis à jour régulièrement. La documentation est donc susceptible d'évoluer. Un système de version est présent sur la documentation (relatif à [4e Dimension]()).
+Les outils présentés ici sont inscrits dans un processus de développement actif. De ce fait, ils sont mis à jour régulièrement. La documentation est donc susceptible d'évoluer. Un système de version est présent sur la documentation (relatif à [4e Dimension](http://gestion-de-courses.readthedocs.io/fr/latest/4d/presentation/)).
 
-Seuls [4e Dimension]() et [ChronoPC]() sont pleinement développés par les bénévoles de la discipline. Les autres logiciels sont propriétaires et ne dépendent pas directement de nous. Toutefois, si des mises à jour sont disponibles, nous essayerons au maximum de les relayer.
+Seuls [4e Dimension](http://gestion-de-courses.readthedocs.io/fr/latest/4d/presentation/) et [ChronoPC](http://gestion-de-courses.readthedocs.io/fr/latest/chronopc/presentation/) sont pleinement développés par les bénévoles de la discipline. Les autres logiciels sont propriétaires et ne dépendent pas directement de nous. Toutefois, si des mises à jour sont disponibles, nous essayerons au maximum de les relayer.
 
 ## Contribution
 
