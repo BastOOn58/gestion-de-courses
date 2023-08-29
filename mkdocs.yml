@@ -19,3 +19,5 @@ markdown_extensions:
 
 nav:
   - Introduction: 'index.md'
+  - 4D: '4d/presentation.md'
+  - CompetFFCK: 'competffck/presentation.md'
