@@ -3,6 +3,7 @@ site_author: Bastien BOYER
 copyright: Copyright 2023, Bastien BOYER, FFCK CNA CEL
 
 theme:
+  name: readthedocs
   highlightjs: true
   locale: fr
   prev_next_buttons_location: none
