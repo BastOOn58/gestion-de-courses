@@ -7,6 +7,7 @@ theme:
   name: mkdocs
   highlightjs: true
   locale: fr
+  navigation_depth: 3
 
 plugins:
   - search

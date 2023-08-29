@@ -19,21 +19,21 @@ Dans beaucoup de cas, l'équipe est plus large (dépendant aussi de l'empleur de
 
 Cette documentation inclut l'ensemble des outils nécessaires à la gestion de courses, depuis les inscriptions jusqu'au résultat, en passant par le chronométrage. Vous pourrez notamment y retrouver les outils présentés dans le tableau ci-dessous.
 
-| Outils                                | Description                                                                                                 |
-|:--------------------------------------|:------------------------------------------------------------------------------------------------------------|
-| [4D](4d/presentation)                 | Logiciel utilisé pour la gestion des courses création des programmes et saisie des résultats (*essentiel*) |
-| [CompetFFCK](competffck/presentation) | Logiciel de gestion des compétitions et des inscriptions (*accès restreint*)                                |
-| [Lynx](lynx/presentation)             | Logiciel utilisé pour le système de photofinish du même nom (*avancée*)                                     |
-| [MariTime](maritime/presentation)     | Logiciel utilisé pour le système de photofinish du même nom (*avancée*)                                     |
-| [ChronoPC](chronopc/presentation)     | Tableur Excel permettant un chronométrage visuel et l'export des résultats (*facile*)                       |
+| Outils                                   | Description                                                                                                 |
+|:-----------------------------------------|:------------------------------------------------------------------------------------------------------------|
+| [4D](4d/presentation.md)                 | Logiciel utilisé pour la gestion des courses création des programmes et saisie des résultats (*essentiel*) |
+| [CompetFFCK](competffck/presentation.md) | Logiciel de gestion des compétitions et des inscriptions (*accès restreint*)                                |
+| [Lynx](lynx/presentation.md)             | Logiciel utilisé pour le système de photofinish du même nom (*avancée*)                                     |
+| [MariTime](maritime/presentation.md)     | Logiciel utilisé pour le système de photofinish du même nom (*avancée*)                                     |
+| [ChronoPC](chronopc/presentation.md)     | Tableur Excel permettant un chronométrage visuel et l'export des résultats (*facile*)                       |
 
-Également, vous pourrez retrouver des informations plus générales comme la page de [téléchargement](general/telechargements) de ces outils.
+Également, vous pourrez retrouver des informations plus générales comme la page de [téléchargement](general/telechargements.md) de ces outils.
 
 ## Mise à jour
 
-Les outils présentés ici sont inscrits dans un processus de développement actif. De ce fait, ils sont mis à jour régulièrement. La documentation est donc susceptible d'évoluer. Un système de version est présent sur la documentation (relatif à [4e Dimension](4d/presentation)).
+Les outils présentés ici sont inscrits dans un processus de développement actif. De ce fait, ils sont mis à jour régulièrement. La documentation est donc susceptible d'évoluer. Un système de version est présent sur la documentation (relatif à [4e Dimension](4d/presentation.md)).
 
-Seuls [4e Dimension](4d/presentation) et [ChronoPC](chronopc/presentation) sont pleinement développés par les bénévoles de la discipline. Les autres logiciels sont propriétaires et ne dépendent pas directement de nous. Toutefois, si des mises à jour sont disponibles, nous essayerons au maximum de les relayer.
+Seuls [4e Dimension](4d/presentation.md) et [ChronoPC](chronopc/presentation.md) sont pleinement développés par les bénévoles de la discipline. Les autres logiciels sont propriétaires et ne dépendent pas directement de nous. Toutefois, si des mises à jour sont disponibles, nous essayerons au maximum de les relayer.
 
 ## Contribution
 
