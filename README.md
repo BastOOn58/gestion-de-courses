@@ -1,6 +1,8 @@
 > [!NOTE]
 > Ce projet est actuellement en développement. Si toutefois vous souhaitez contribuer à ce projet, référez-vous à la section [contribution](#contribution).
 
+[![Documentation Status](https://readthedocs.org/projects/gestion-de-courses/badge/?version=latest)](https://gestion-de-courses.readthedocs.io/fr/latest/?badge=latest)
+
 # Documentation pour la Gestion de Courses
 
 Cette documentation publique a été écrite dans un but de formation et de partage des connaissances. Elle est accessible à l'adresse suivante : [à venir]().
