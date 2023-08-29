@@ -18,8 +18,27 @@ markdown_extensions:
   - admonition
 
 nav:
-  - 4D: '4d/presentation.md'
-  - CompetFFCK: 'competffck/presentation.md'
-  - Lynx: 'lynx/presentation.md'
-  - MariTime: 'maritime/presentation.md'
-  - ChronoPC:  'chronopc/presentation.md'
+  - 4D:
+    - Présentation: '4d/presentation.md'
+    - Gérer les inscriptions: '4d/gestion_inscription.md'
+    - Créer un programme: '4d/creation_programme.md'
+    - Gérer une compétition: '4d/gestion_competition.md'
+    - Résultats en live: '4d/resultat_live.md'
+  - CompetFFCK:
+    - Présentation: 'competffck/presentation.md'
+    - Créer une compétition: 'competffck/creer_competition.md'
+    - Gérer les inscriptions: 'competffck/gestion_inscription.md'
+    - Administer les paramètres: 'competffck/administration.md'
+  - Lynx: 
+    - Présentation: 'lynx/presentation.md'
+    - Chronométrage: 'lynx/chronometrage.md'
+    - Installation: 'lynx/installation.md'
+    - Résultats en live: 'lynx/resultat_live.md'
+  - MariTime:
+    - Présentation: 'maritime/presentation.md'
+    - Chronométrage: 'maritime/chronometrage.md'
+    - Installation: 'maritime/installation.md'
+  - ChronoPC: 
+    - Présentation: 'chronopc/presentation.md'
+    - Chronométrage: 'chronopc/chronometrage.md'
+    - Installation: 'chronopc/installation.md'
