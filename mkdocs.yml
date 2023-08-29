@@ -6,7 +6,7 @@ theme:
   name: readthedocs
   highlightjs: true
   locale: fr
-  prev_next_buttons_location: none
+  prev_next_buttons_location: top
   titles_only: true
 
 plugins:
