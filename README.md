@@ -5,7 +5,7 @@
 
 # Documentation pour la Gestion de Courses
 
-Cette documentation publique a été écrite dans un but de formation et de partage des connaissances. Elle est accessible à l'adresse suivante : [à venir]().
+Cette documentation publique a été écrite dans un but de formation et de partage des connaissances. Elle est accessible à l'adresse suivante : [http://gestion-de-courses.readthedocs.io/](http://gestion-de-courses.readthedocs.io/).
 
 Plus précisément, elle concerne la gestion des courses pour la course en ligne et le marathon, pour la Fédération Française de Canoë Kayak et sports de pagaie ([FFCK](https://www.ffck.org/course-en-ligne/)).
 
@@ -13,15 +13,15 @@ Plus précisément, elle concerne la gestion des courses pour la course en ligne
 
 Cette documentation inclut l'ensemble des outils nécessaires à la gestion de courses, depuis les inscriptions jusqu'au résultat, en passant par le chronométrage. Vous pourrez notamment y retrouver les outils présentés dans le tableau ci-dessous.
 
-| Outils           | Description                                                                                                 |
-|:-----------------|:------------------------------------------------------------------------------------------------------------|
-| [4e Dimension]() | Logiciel utilisé pour la gestion des courses (création des programmes et saisie des résultats (*essentiel*) |
-| [CompetFFCK]()   | Logiciel de gestion des compétitions et des inscriptions (*accès restreint*)                                |
-| [Lynx]()         | Logiciel utilisé pour le système de photofinish du même nom (*avancée*)                                     |
-| [MariTime]()     | Logiciel utilisé pour le système de photofinish du même nom (*avancée*)                                     |
-| [ChronoPC]()     | Tableur Excel permettant un chronométrage visuel et l'export des résultats (*facile*)                       |
+| Outils                                                                                    | Description                                                                                                 |
+|:------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|
+| [4e Dimension](http://gestion-de-courses.readthedocs.io/fr/latest/4d/presentation/)       | Logiciel utilisé pour la gestion des courses (création des programmes et saisie des résultats (*essentiel*) |
+| [CompetFFCK](http://gestion-de-courses.readthedocs.io/fr/latest/competffck/presentation/) | Logiciel de gestion des compétitions et des inscriptions (*accès restreint*)                                |
+| [Lynx](http://gestion-de-courses.readthedocs.io/fr/latest/lynx/presentation/)             | Logiciel utilisé pour le système de photofinish du même nom (*avancée*)                                     |
+| [MariTime](http://gestion-de-courses.readthedocs.io/fr/latest/maritime/presentation/)     | Logiciel utilisé pour le système de photofinish du même nom (*avancée*)                                     |
+| [ChronoPC](http://gestion-de-courses.readthedocs.io/fr/latest/chronopc/presentation/)     | Tableur Excel permettant un chronométrage visuel et l'export des résultats (*facile*)                       |
 
-Également, vous pourrez retrouver des informations plus générales comme la page de [téléchargement]() de ces outils.
+Également, vous pourrez retrouver des informations plus générales comme la page de [téléchargement](https://gestion-de-courses.readthedocs.io/fr/latest/telechargements/) de ces outils.
 
 ## Mise à jour de la documentation
 
