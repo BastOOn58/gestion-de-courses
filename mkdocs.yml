@@ -8,7 +8,12 @@ theme:
   #locale: fr
   #prev_next_buttons_location: none
   #titles_only: true
-  name: windmill
+  name:windmill
 
 plugins:
   - search
+  
+markdown_extensions:
+  - markdown_include.include:
+      base_path: .
+  - admonition
