@@ -1,4 +1,5 @@
-site_name: Gestion de courses (FFCK)
+site_name: Gestion de courses
+site_url: https://gestion-de-courses.readthedocs.io
 site_author: Bastien BOYER
 copyright: Copyright 2023, Bastien BOYER, FFCK CNA CEL
 
@@ -17,6 +18,8 @@ markdown_extensions:
   - admonition
 
 nav:
-  - Introduction: 'index.md'
   - 4D: '4d/presentation.md'
   - CompetFFCK: 'competffck/presentation.md'
+  - Lynx: 'lynx/presentation.md'
+  - MariTime: 'maritime/presentation.md'
+  - ChronoPC:  'chronopc/presentation.md'
