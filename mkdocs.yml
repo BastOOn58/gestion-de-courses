@@ -7,7 +7,6 @@ theme:
   highlightjs: true
   locale: fr
   prev_next_buttons_location: none
-  titles_only: true
 
 plugins:
   - search
