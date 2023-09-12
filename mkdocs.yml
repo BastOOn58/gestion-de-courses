@@ -4,7 +4,7 @@ site_author: Bastien BOYER
 copyright: Copyright 2023, Bastien BOYER, FFCK CNA CEL
 
 theme:
-  name: mkdocs
+  name: readthedocs
   highlightjs: true
   locale: fr
   navigation_depth: 3
@@ -16,6 +16,9 @@ markdown_extensions:
   - markdown_include.include:
       base_path: ./docs
   - admonition
+  - kbdextension
+  - attr_list
+  - pymdownx.mark
 
 nav:
   - Général:
@@ -24,20 +27,20 @@ nav:
     - À propos de nous: 'general/a-propos.md'
   - 4D:
     - Présentation: '4d/presentation.md'
-    - Gérer les inscriptions: '4d/gestion_inscription.md'
-    - Créer un programme: '4d/creation_programme.md'
-    - Gérer une compétition: '4d/gestion_competition.md'
-    - Résultats en live: '4d/resultat_live.md'
+    - Gérer les inscriptions: '4d/gestion-inscription.md'
+    - Créer un programme: '4d/creation-programme.md'
+    - Gérer une compétition: '4d/gestion-competition.md'
+    - Résultats en live: '4d/resultat-live.md'
   - CompetFFCK:
     - Présentation: 'competffck/presentation.md'
-    - Créer une compétition: 'competffck/creer_competition.md'
-    - Gérer les inscriptions: 'competffck/gestion_inscription.md'
-    - Administer les paramètres: 'competffck/administration.md'
+    - Créer une compétition: 'competffck/creer-competition.md'
+    - Gérer les inscriptions: 'competffck/gestion-inscription.md'
+    - Utilisation avancée: 'competffck/utilisation-avancee.md'
   - Lynx: 
     - Présentation: 'lynx/presentation.md'
     - Chronométrage: 'lynx/chronometrage.md'
     - Installation: 'lynx/installation.md'
-    - Résultats en live: 'lynx/resultat_live.md'
+    - Résultats en live: 'lynx/resultat-live.md'
   - MariTime:
     - Présentation: 'maritime/presentation.md'
     - Chronométrage: 'maritime/chronometrage.md'

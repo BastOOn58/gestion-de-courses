@@ -19,13 +19,13 @@ Dans beaucoup de cas, l'équipe est plus large (dépendant aussi de l'empleur de
 
 Cette documentation inclut l'ensemble des outils nécessaires à la gestion de courses, depuis les inscriptions jusqu'au résultat, en passant par le chronométrage. Vous pourrez notamment y retrouver les outils présentés dans le tableau ci-dessous.
 
-| Outils                                   | Description                                                                                                 |
-|:-----------------------------------------|:------------------------------------------------------------------------------------------------------------|
+| Outils                                   | Description                                                                                                |
+|:-----------------------------------------|:-----------------------------------------------------------------------------------------------------------|
 | [4D](4d/presentation.md)                 | Logiciel utilisé pour la gestion des courses création des programmes et saisie des résultats (*essentiel*) |
-| [CompetFFCK](competffck/presentation.md) | Logiciel de gestion des compétitions et des inscriptions (*accès restreint*)                                |
-| [Lynx](lynx/presentation.md)             | Logiciel utilisé pour le système de photofinish du même nom (*avancée*)                                     |
-| [MariTime](maritime/presentation.md)     | Logiciel utilisé pour le système de photofinish du même nom (*avancée*)                                     |
-| [ChronoPC](chronopc/presentation.md)     | Tableur Excel permettant un chronométrage visuel et l'export des résultats (*facile*)                       |
+| [CompetFFCK](competffck/presentation.md) | Logiciel de gestion des compétitions et des inscriptions (*accès restreint*)                               |
+| [Lynx](lynx/presentation.md)             | Logiciel utilisé pour le système de photofinish du même nom (*avancée*)                                    |
+| [MariTime](maritime/presentation.md)     | Logiciel utilisé pour le système de photofinish du même nom (*avancée*)                                    |
+| [ChronoPC](chronopc/presentation.md)     | Tableur Excel permettant un chronométrage visuel et l'export des résultats (*facile*)                      |
 
 Également, vous pourrez retrouver des informations plus générales comme la page de [téléchargement](general/telechargements.md) de ces outils.
 
