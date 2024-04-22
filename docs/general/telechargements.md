@@ -45,4 +45,4 @@ Attention, certain boitier d'acquisition nécessite un version particulière de 
 
 ## ChronoPC
 
-- [ChronoPC](/downloads/Chrono-PC-2018.xls){:download="Chrono-PC-2018.xls"} (*version 2018*)
+- [ChronoPC](/downloads/Chrono PC 2024 V3.xls){:download="Chrono PC 2024 V3.xls"} (*version 2024 V3*)
