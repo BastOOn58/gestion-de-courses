@@ -30,7 +30,7 @@ Sur demande de remise à zéro :
 - Après la capture d’un temps ou une sauvegarde par la commande  <kbd>alt</kbd> + <kbd>S</kbd>, le curseur viendra se positionner sur le prochain numéro de dossard à saisir.
 - Il est possible de saisir des numéros de bateaux avant la capture du temps.
 
-## Sécurité mises en place
+## Sécurités mises en place
 
 - Impossible d'effectuer une sauvegarde si le fichier sauvegarde est en cours d'utilisation.
 - Bouton départ verrouillé si départ donné.
